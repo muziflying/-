@@ -1,0 +1,18 @@
+@import "util.scss";//工具类css----兼容性
+
+html,body{
+    width: 10rem;
+    height: 100%;
+    overflow: hidden;
+}
+body{
+    font-size: 0.42667rem;
+    -webkit-font-smoothing:antialiased;
+    background: #f4f4f4;
+}
+#app{
+    width: 10rem;
+    height: 100%;
+}
+
+
